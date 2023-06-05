@@ -4,6 +4,7 @@
 [IOS教程](#IOS教程)  
 [Windows教程](#Windows教程)  
 [MAC教程](#MAC教程)  
+[试用节点](#试用节点)
 ## 简介  
 **试用期体验1-3天左右，觉得好在下单  
 
@@ -121,3 +122,8 @@ ShadowsocksX-NG-R 客户端安装完成
 ![](/image/mac/7.png)  
 至此，基本配置已完成，开始体验吧。  
 TG：@xdff1  
+## 试用节点  
+导航栏试用订阅- 点进去跳转-试用订阅：  
+https://s.sublinks.dev/subscribe/211011/U0VBsnFbQ7l/ssr/   
+（不要打开订阅，直接看教程复制粘贴到软件即可）  
+试用时间1-3天满意再下单  
