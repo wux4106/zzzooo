@@ -3,7 +3,7 @@
 [安卓教程](#安卓教程)  
 [IOS教程](#IOS教程)  
 [Windows教程](#Windows教程)  
-[安卓教程](#)  
+[MAC教程](#MAC教程)  
 ## 简介  
 **试用期体验1-3天左右，觉得好在下单  
 
@@ -16,8 +16,8 @@ MAC使用工具：shadowrocket
 本店童叟无欺，不限流量买多久用多久  
 普通月25（50mbs）        高速月50（100/mbs）  
 普通季65（50mbs）       高速季130（100/mbs）  
-普通年220（100/mbs）      高速年450（300/mbs）  
-普通永久980（200/mbs）  高速永久2980（1000/mbs）  
+普通年220（50/mbs）      高速年450（100/mbs）  
+普通永久980（200/mbs）  高速永久2980（500/mbs）  
 
 ## 安卓教程  
 **安卓SSR 安装使用1**  
@@ -74,3 +74,50 @@ idappstore.cc
 telegram：@xfdd1  
 
 ## Windows教程  
+**WIN 安装使用  
+SSTap 安装使用  
+下载：https://mebi.lanzoui.com/iau1fhi  
+软件安装  
+下载解压后进入文件夹，得到 SSTap 安装程序。  
+![](/image/win/1.png)  
+双击安装，一路 下一步、同意 即可。  
+![](/image/win/2.png)  
+![](/image/win/3.png)  
+![](/image/win/4.png)  
+打开 SSTap 软件，点击右下角 ，下图所示：  
+模式选择如图模式(选择第二个模式如图)  
+![](/image/win/5.png)  
+然后依次点击 SSR订阅* -> SSR订阅管理...  
+![](/image/win/6.png)  
+URL 粘贴刚才复制的 SSR 订阅链接，频率选择每次，点击 添加 后关闭。  
+![](/image/win/7.png)  
+使用 SSTap  
+关闭上面的窗口后，软件会自动更新订阅。当提示订阅成功后，点击下方所示位置的下拉框，选择一个节点  
+TG：@xfdd1  
+
+## MAC教程  
+**下载地址  
+https://download.hitun.io/downloads/ShadowsocksX-NG-R.zip  
+https://download.hitun.me/downloads/ShadowsocksX-NG-R.zip  
+由于下载地址服务器位于美国及香港，部分网络可能下载较慢，  
+应用安装  
+解压下载的 ShadowsocksX-NG-R.zip 压缩包。  
+将 ShadowsocksX-NG-R.app 解压至桌面。  
+![](/image/mac/1.png)  
+如出现「无法打开」等报错，否则忽略此步骤。  
+请查看 解决 macOS 软件提示损坏/无法验证开发者等问题  
+授权ShadowsocksX-NG-R  
+![](/image/mac/2.png)  
+ShadowsocksX-NG-R 客户端安装完成  
+![](/image/mac/3.png)  
+配置使用  
+请务必确保关闭并后台退出了其他代理软件（ClashX、VPN、V2rayN 等），所有代理软件都是不能同时使用的。  
+![](/image/mac/4.png)  
+添加订阅链接； 无需理会请求失败，因为默认是走代理订阅的  
+![](/image/mac/5.png)  
+右上角弹出成功更新订阅  
+![](/image/mac/6.png)  
+在「奇旅」节点分组内，选择需要使用的节点  
+![](/image/mac/7.png)  
+至此，基本配置已完成，开始体验吧。  
+TG：@xdff1  
