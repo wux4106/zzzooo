@@ -4,6 +4,7 @@
 [IOS教程](#IOS教程)  
 [Windows教程](#Windows教程)  
 [MAC教程](#MAC教程)  
+[iOS续费教程](#iOS续费教程)  
 [试用节点](#试用节点)
 ## 简介  
 **试用期体验1-3天左右，觉得好在下单  
@@ -127,3 +128,5 @@ TG：@xdff1
 https://s.sublinks.dev/subscribe/211011/U0VBsnFbQ7l/ssr/   
 （不要打开订阅，直接看教程复制粘贴到软件即可）  
 试用时间1-3天满意再下单  
+
+## iOS续费教程  
