@@ -8,9 +8,9 @@
 [iOS续费教程](#iOS续费教程)  
 [试用节点](#试用节点)
 ## 简介  
-**试用期体验1-3天左右，觉得好在下单  
+试用期体验1-3天左右，觉得好在下单  
 
-**这是看是世界的网络工具，  
+这是看是世界的网络工具，  
 IOS使用工具：小火箭  
 安卓使用工具：SSR  
 WIN使用工具：SSTAP  
@@ -23,20 +23,21 @@ MAC使用工具：shadowrocket
 普通永久980（200/mbs）  高速永久2980（500/mbs）  
 
 ## 防失联  
-**可以先链接防失联节点  
+可以先链接防失联节点  
 Android.iOS.Mac：  
 http://11.bbbooo.top/s.txt  
 win:  
-ss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.topss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.top
+ss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.topss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.top  
+
 备用联系方式：  
 
 
 ## 安卓教程  
-**安卓SSR 安装使用1**  
-**提供的是安卓系统的 SSR 教程。SSRRAY 软件为目前 SSR 在安卓系统最好软件，推荐使用这个。 
-**下载地址：  
+安卓SSR 安装使用  
+提供的是安卓系统的 SSR 教程。SSRRAY 软件为目前 SSR 在安卓系统最好软件，推荐使用这个。 
+下载地址：  
 https://mebi.lanzoui.com/iRswKoaku2b  
-**导入订阅  
+导入订阅  
 如果你们之前用过其他家的订阅  
 请先删除添加我的  
 ![](/image/Android/1.png)
@@ -60,7 +61,7 @@ https://mebi.lanzoui.com/iRswKoaku2b
 永不失联telegram：@xfdd1  
 
 ## IOS教程  
-**由于登录的人可能会很多（也会有一些人乱弄封号），会导致账号失效，  
+由于登录的人可能会很多（也会有一些人乱弄封号），会导致账号失效，  
 人多的时候ID封的快，没法随时给你们提供ID  
 下面给你们提供ID购买的网站（详细根据我教程说的买1.99的ID下载，不要自作主张）  
 idappstore.cc  
@@ -86,7 +87,7 @@ idappstore.cc
 telegram：@xfdd1  
 
 ## Windows教程  
-**WIN 安装使用  
+WIN 安装使用  
 SSTap 安装使用  
 下载：https://mebi.lanzoui.com/iau1fhi  
 软件安装  
@@ -108,7 +109,7 @@ URL 粘贴刚才复制的 SSR 订阅链接，频率选择每次，点击 添加 
 TG：@xfdd1  
 
 ## MAC教程  
-**下载地址  
+下载地址  
 https://download.hitun.io/downloads/ShadowsocksX-NG-R.zip  
 https://download.hitun.me/downloads/ShadowsocksX-NG-R.zip  
 由于下载地址服务器位于美国及香港，部分网络可能下载较慢，  
@@ -140,7 +141,7 @@ http://11.bbbooo.top/2.txt
 试用时间1-3天满意再下单  
 
 ## iOS续费教程  
-**IOS续费教程  
+IOS续费教程  
 1：开关保持关闭  
 2：全局路由-配置（这个不要动它）  
 3：左划删除之前订阅  
