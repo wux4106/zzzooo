@@ -26,7 +26,7 @@ MAC使用工具：shadowrocket
 **可以先链接防失联节点  
 Android.iOS.Mac：  
 http://11.bbbooo.top/s.txt  
-win:
+win:  
 ss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.topss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.top
 备用联系方式：  
 
