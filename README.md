@@ -23,9 +23,12 @@ MAC使用工具：shadowrocket
 普通永久980（200/mbs）  高速永久2980（500/mbs）  
 
 ## 防失联  
-**可以先链接试用
-[试用节点](#试用节点)  
-备用联系方式：
+**可以先链接防失联节点  
+Android.iOS.Mac：  
+http://11.bbbooo.top/s.txt  
+win:
+ss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.topss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%81%94-%E5%AE%98%E7%BD%91zzzooo.top
+备用联系方式：  
 
 
 ## 安卓教程  
@@ -132,7 +135,7 @@ ShadowsocksX-NG-R 客户端安装完成
 TG：@xdff1  
 ## 试用节点  
 导航栏试用订阅- 点进去跳转-试用订阅：  
-https://s.sublinks.dev/subscribe/211011/U0VBsnFbQ7l/ssr/   
+http://11.bbbooo.top/2.txt  
 （不要打开订阅，直接看教程复制粘贴到软件即可）  
 试用时间1-3天满意再下单  
 
