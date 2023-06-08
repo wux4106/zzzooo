@@ -37,6 +37,8 @@ ss://YWVzLTI1Ni1nY206RG1tRTcwQ3M2Qg==@104.243.20.2:50128#%E9%98%B2%E5%A4%B1%E8%8
 提供的是安卓系统的 SSR 教程。SSRRAY 软件为目前 SSR 在安卓系统最好软件，推荐使用这个。 
 下载地址：  
 https://mebi.lanzoui.com/iRswKoaku2b  
+下载备用:  
+https://www.seacloud.buzz  
 导入订阅  
 如果你们之前用过其他家的订阅  
 请先删除添加我的  
@@ -89,7 +91,10 @@ telegram：@xfdd1
 ## Windows教程  
 WIN 安装使用  
 SSTap 安装使用  
-下载：https://mebi.lanzoui.com/iau1fhi  
+下载：  
+https://mebi.lanzoui.com/iau1fhi  
+下载备用:  
+https://www.seacloud.buzz  
 软件安装  
 下载解压后进入文件夹，得到 SSTap 安装程序。  
 ![](/image/win/1.png)  
@@ -109,9 +114,11 @@ URL 粘贴刚才复制的 SSR 订阅链接，频率选择每次，点击 添加 
 TG：@xfdd1  
 
 ## MAC教程  
-下载地址  
+下载地址:  
 https://download.hitun.io/downloads/ShadowsocksX-NG-R.zip  
 https://download.hitun.me/downloads/ShadowsocksX-NG-R.zip  
+下载备用:  
+https://www.seacloud.buzz  
 由于下载地址服务器位于美国及香港，部分网络可能下载较慢，  
 应用安装  
 解压下载的 ShadowsocksX-NG-R.zip 压缩包。  
