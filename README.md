@@ -205,6 +205,9 @@ ShadowsocksR 应用程序显示「处理中」。这可能需要一小段时间�
 点击连接之后（再点一下就断开了，才能编辑首页下面的配置），如下图，有数据显示基本代表成功连上了  
 ![](/image/AndroidX/7.png)  
 ## WIN续费教程  
-
-
-
+![](/image/winX/1.png)  
+![](/image/winX/2.png)  
+![](/image/winX/3.png)  
+![](/image/winX/4.png)  
+![](/image/winX/5.png)  
+![](/image/winX/6.png)  
