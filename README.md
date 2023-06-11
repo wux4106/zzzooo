@@ -10,7 +10,7 @@
 [Windows教程](#Windows教程)  
 [MAC教程](#MAC教程)  
 [iOS续费教程](#iOS续费教程)  
-其他续费教程![](续费教程.doc)  
+[其他续费教程](https://github.com/wux4106/zzzooo/blob/main/%E7%BB%AD%E8%B4%B9%E6%95%99%E7%A8%8B.doc)  
 [试用节点](#试用节点)  
 ## 简介  
 试用期体验1-5小时左右，觉得好在下单  
