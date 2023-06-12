@@ -171,6 +171,9 @@ TG：@xdff1
 （不要打开订阅，直接看教程复制粘贴到软件即可）  
 试用时间1-3天满意再下单  
 
+##  补偿订阅  
+https://s.sublinks.dev/subscribe/211799/ZWYmYOckeoI/ssr/  
+
 ## iOS续费教程  
 IOS续费教程  
 1：开关保持关闭  
